@@ -1,6 +1,6 @@
 <div align="center">
   
-# Merhaba! 👋 Ben smtkn
+# Merhaba! 👋 Ben Samet
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;42+Ecole+Alumni;Full+Stack+Developer)](https://git.io/typing-svg)
 
