@@ -2,7 +2,7 @@
   
 # Merhaba! 👋 Ben Samet
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;42+Ecole+Alumni;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;42+Ecole+Alumni;Full+Stack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=smtkn&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
@@ -18,6 +18,7 @@
 - 🐳 Docker ile containerized uygulamalar oluşturuyorum
 - 🤖 Discord bot geliştirme deneyimim var
 - 🌐 Django, Angular, React ve PHP ile web uygulamaları yazıyorum
+- 📱 **Flutter** ile **iOS** ve **Android** uygulamaları geliştiriyorum
 
 ---
 
@@ -35,6 +36,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,6 +54,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📱 Mobil Uygulama Geliştirme
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
